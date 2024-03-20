@@ -1,0 +1,15 @@
+input {
+  width: 100%;
+}
+
+.my-button {
+  min-width: 80px;
+}
+
+.my-row {
+  margin: 10px 5px;
+}
+
+body {
+  background-color: aquamarine;
+}
